@@ -1,0 +1,12 @@
+.sidebar {
+  width: 30%;
+  float: inline-end;
+  background-color: indigo;
+}
+.column {
+  width: 500px;
+  float: right;
+}
+img {
+  float:inherit;
+}
