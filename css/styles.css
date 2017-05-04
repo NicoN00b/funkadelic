@@ -2,6 +2,8 @@
   width: 30%;
   float: inline-end;
   background-color: indigo;
+  border: 6px;
+  padding: 4px;
 }
 .column {
   width: 500px;
@@ -9,4 +11,5 @@
 }
 img {
   float:inherit;
+  padding: 14px;
 }
