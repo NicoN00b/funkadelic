@@ -1,5 +1,8 @@
-.sidebar {
-  width: 30%;
+body {
+  background-color: black;
+  color: white;
+}
+#sidebar {
   float: inline-end;
   background-color: indigo;
   border: 6px;
@@ -9,7 +12,19 @@
   width: 500px;
   float: right;
 }
-img {
-  float:inherit;
+#img {
+  max-width: 100%;
   padding: 14px;
+}
+#img-caption {
+  font-size: 50px;
+  font: monospace;
+  padding-left: 15%;
+  max-width: 100%;
+
+}
+#img-div {
+  width: 100%;
+  align-items: center;
+  align-content: center;
 }
